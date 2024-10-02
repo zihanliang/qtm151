@@ -10,7 +10,7 @@ author:
 format:
   clean-revealjs:
     self-contained: true
-    footer: "[For Loops](https://danilofreire.github.io/)"
+    footer: "[For Loops](https://raw.githack.com/danilofreire/qtm151/main/lectures/lecture-06/06-while-for.html)"
 transition: slide
 transition-speed: default
 scrollable: true
