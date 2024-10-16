@@ -247,7 +247,7 @@ $$abs\left(y - ybar \right) \le stdv\_sample$$
 :::
 :::
 
-# Estimate the line of best fit 📈
+# Estimate the line of best fit 📈 {background-color="#2d4563"}
 
 ## Estimate the line of best fit
 
@@ -380,9 +380,9 @@ plt.show()
 - Solution: [[Appendix 05]{.button}](#sec:appendix05)
 :::
 
-# That's all for today! 🎉
+# That's all for today! 🎉 {background-color="#2d4563"}
 
-# Enjoy the fall break! 🍂
+# Enjoy the fall break! 🍂 {background-color="#2d4563"}
 
 ## Appendix 01 {#sec:appendix01}
 
