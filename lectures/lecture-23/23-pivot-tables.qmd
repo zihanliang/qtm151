@@ -25,6 +25,12 @@ editor:
 
 # Hello, friends! 😊 <br> How's everything? {background-color="#2d4563"} 
 
+## QTM 285 - Intro to Text as Data
+
+:::{style="margin-top: 30px; font-size: 24px; text-align: center;"}
+![](figures/text.png){width="70%"}
+:::
+
 # Brief recap 📚 {background-color="#2d4563"} 
 
 ## Last time we talked about...
